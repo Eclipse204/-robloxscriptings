@@ -1,3 +1,7 @@
+# Lumber Tycoon 2 Spook Finder Script
+
+
+
 ```--https://rbscripts.com
 getgenv().webhook = "webhook here"
 
